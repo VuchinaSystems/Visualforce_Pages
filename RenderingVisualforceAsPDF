@@ -1,0 +1,5 @@
+<apex:page renderAs=”pdf”>
+<center>
+<h1>Welocome to Salesforce Tutorial</h1>
+</center>
+</apex:page>
